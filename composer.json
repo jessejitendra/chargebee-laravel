@@ -1,5 +1,5 @@
 {
-    "name": "tijmen-wierenga/laravel-chargebee",
+    "name": "chargebee-specific/laravel-chargebee",
     "type": "library",
     "description": "A Laravel package which provides an easy way to handle billing and subscriptions.",
     "keywords": [
@@ -9,13 +9,11 @@
         "Cashier",
         "Subscription"
     ],
-    "homepage": "https://github.com/TijmenWierenga/LaravelChargebee",
+    "homepage": "https://github.com/jessejitendra/chargebee-laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tijmen Wierenga",
-            "email": "tijmen@floown.com",
-            "homepage": "https://www.floown.com",
+            "name": "",
             "role": "Developer"
         }
     ],
