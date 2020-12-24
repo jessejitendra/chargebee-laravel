@@ -9,7 +9,7 @@
     "packages": [
         {
             "name": "chargebee/chargebee-php",
-            "version": "v1.7.2",
+            "version": "v2.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jessejitendra/Chargebee-php-teamexcel.git",
