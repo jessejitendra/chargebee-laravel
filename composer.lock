@@ -12,7 +12,7 @@
             "version": "v2.7.7",
             "source": {
                 "type": "git",
-                "url": "https://github.com/jessejitendra/Chargebee-php-teamexcel.git",
+                "url": "https://github.com/chargebee/chargebee-php.git",
                 "reference": "28055765bdb48b0cbfcace7fff668b80507a0b9d"
             },
             "dist": {
@@ -32,7 +32,7 @@
                 "MIT"
             ],
             "description": "ChargeBee API client implementation for PHP",
-            "homepage": "https://github.com/jessejitendra/chargebee-laravel",
+            "homepage": "https://github.com/chargebee/chargebee-php",
             "keywords": [
                 "chargebee",
                 "payments",
