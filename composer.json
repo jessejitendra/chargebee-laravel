@@ -22,7 +22,7 @@
         "illuminate/database": "~5.1",
         "illuminate/console": "~5.1",
         "php" : "~5.5|~7.0",
-        "chargebee/chargebee-php": "^2.8.0",
+        "chargebee/chargebee-php": "^2.7.7",
         "stripe/stripe-php": "^3.14"
     },
     "require-dev": {
